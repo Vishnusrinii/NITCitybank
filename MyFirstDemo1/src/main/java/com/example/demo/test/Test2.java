@@ -1,7 +1,5 @@
 package com.example.demo.test;
 
-public class Test {
+public class Test2 {
 
-	
-	
 }

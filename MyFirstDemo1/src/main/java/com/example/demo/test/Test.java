@@ -1,7 +1,10 @@
 package com.example.demo.test;
 
-public class Test {
+import org.springframework.stereotype.Service;
 
-	
-	
+import com.example.demo.beans.Utility;
+
+@Service
+public class Test {
+   
 }

@@ -9,12 +9,9 @@ public class Utility {
 	}
 	
 	public void m1() {
-<<<<<<< HEAD
-		System.out.println("m1 method 0000 abcd ");
-=======
 
-		System.out.println("m1 method 0000");
+		System.out.println("m1 method 0000 abcd");
 
->>>>>>> branch 'master' of https://github.com/Vishnusrinii/NITCitybank.git
+
 	}
 }
